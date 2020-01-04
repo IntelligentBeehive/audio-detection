@@ -1,0 +1,5 @@
+audio
+sampleaudio
+
+.DS_STORE
+*.__pycache__
