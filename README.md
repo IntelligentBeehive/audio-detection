@@ -18,6 +18,7 @@ Then navigate to ./code/runners/main.py and execute the main method, this will r
 
 # Dependencies
 These are the projects dependencies which need to be installed
+
 | Dependency | Description |
 | ------ | ------ |
 | Numpy | NumPy is the fundamental package for scientific computing in Python | 
